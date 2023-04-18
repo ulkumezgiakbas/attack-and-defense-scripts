@@ -11,4 +11,6 @@ Here we are some game screenshots:
 ![ss2](https://user-images.githubusercontent.com/126782676/232790188-88c80f01-63b2-4ff5-aba5-2c24b552129e.jpg)
 ![ss1](https://user-images.githubusercontent.com/126782676/232790191-9faf3b5f-be0d-45f1-a005-9b4d8e23c9c4.jpg)
 
+Also i tried to use Breadth First Search algrotihm, you can find the scripts.
+
 You can find gameplay video :
