@@ -14,3 +14,4 @@ Here we are some game screenshots:
 Also i tried to use Breadth First Search algrotihm, you can find the scripts.
 
 You can find gameplay video :
+https://www.linkedin.com/feed/update/urn:li:activity:7054088671557222400/
